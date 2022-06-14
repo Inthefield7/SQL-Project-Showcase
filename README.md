@@ -1,8 +1,8 @@
 # SQL_Project
 Summary
 
-Tableau visual:
+Tableau Visual:
 ![](Tableau%20visual.png)
 
-Power BI visual:
+Power BI Visual:
 ![](Power%20Bi%20visual.png)
