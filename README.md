@@ -1,5 +1,5 @@
 # SQL_Projects
-Sample project to showcase data exploration using SQL
+Sample project using SQL
 
 Tableau visual:
 ![](Tableau%20visual.png)
