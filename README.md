@@ -1,4 +1,4 @@
-# SQL_Projects
+# SQL_Project
 Data Anaylsis using SQL
 
 Tableau visual:
