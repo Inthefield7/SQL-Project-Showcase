@@ -1,5 +1,5 @@
 # SQL_Project
-Data Anaylsis using SQL
+Executive Summary
 
 Tableau visual:
 ![](Tableau%20visual.png)
