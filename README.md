@@ -1,5 +1,5 @@
 # SQL_Project
-Executive Summary
+Summary
 
 Tableau visual:
 ![](Tableau%20visual.png)
